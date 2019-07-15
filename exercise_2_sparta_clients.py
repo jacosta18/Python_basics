@@ -7,7 +7,7 @@ clients =['BAML', 'GoldmanSachs', 'DirectLine', 'Prudential','M&G', 'BO', 'Home 
 
 # print(array())
 # Exerice 2
-
+print('Using interpolation')
 print(clients[0],['Is cool client'])
 print(clients[1],['Is hiring rapidly'])
 print(clients[2],['need DevOps'])
@@ -21,3 +21,9 @@ print(clients[9],['are looking for testers'])
 
 #Exersice 3
 
+story = {
+    'Hero': 'There was once a hero called sparticus',
+    'beginning': 'His wife was take from him by his soon to be king'
+  }
+
+print(story['Hero'])
