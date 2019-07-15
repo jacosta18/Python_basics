@@ -68,10 +68,19 @@ print(mixed_list)
 print(type(mixed_list[0]), type(mixed_list[1]))
 
 #Inception List
+    #
 
-leo_d = ['first', 2, ['leo'],'d']
+leo_d = ['first', 2, ['leo','d']]
 print(leo_d[0])
 print('accessing the index 2')
 print(leo_d[2])
 print(leo_d[2][1])
+sub_array = leo_d[2]
+print(sub_array)
+print(sub_array[1])
+
+# All of this is the same as
+print(leo_d[2][0][1])
+
+
 
