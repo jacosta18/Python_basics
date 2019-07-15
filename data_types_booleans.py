@@ -33,7 +33,7 @@ print(False or True)
 # Some methods or function can return booleans
 potential_number = '10'
 print(potential_number.isnumeric())
-print(int(potential_number).isinteger())
+#print(int(potential_number).isnumeric())
 
 text = 'Hello World!'
 print(text.startswith('H'))
@@ -42,3 +42,13 @@ print('Testing.endswith(arg)')
 print(text[-1] == '?') # strings are list of characters. -1 represents the last index in said list.
 print(text.endswith('!'))
 print(text.endswith('?'))
+
+# Booleans and numbers
+print("printing bool values of numbers")
+print(bool(0))
+print(bool(13))
+print(bool(1))
+print(bool(3.14))
+
+# Values of None
+print(bool(None))
