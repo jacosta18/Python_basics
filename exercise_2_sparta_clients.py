@@ -22,8 +22,13 @@ print(clients[9],['are looking for testers'])
 #Exersice 3
 
 story = {
-    'Hero': 'There was once a hero called sparticus',
-    'beginning': 'His wife was take from him by his soon to be king'
+    'Hero': 'There was once a hero called Sparticus.',
+    'beginning': 'His wife, Dany, was take from him by his soon to be king, Glactus.',
+    'middle':"He formed an army of rebels, 3000 strong and marched towards the capital and fought outside the city's gates.",
+    'End': 'Both Glactus and Sparticus fell on the battlefield, making Dany queen of the entire kingdom.'
   }
 
 print(story['Hero'])
+print(story['beginning'])
+print(story['middle'])
+print(story['End'])
