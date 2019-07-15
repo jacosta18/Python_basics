@@ -7,17 +7,18 @@ clients =['BAML', 'GoldmanSachs', 'DirectLine', 'Prudential','M&G', 'BO', 'Home 
 
 # print(array())
 # Exerice 2
-print('Using interpolation')
-print(clients[0],['Is cool client'])
-print(clients[1],['Is hiring rapidly'])
-print(clients[2],['need DevOps'])
-print(clients[3],['Is not looking'])
-print(clients[4],['Is not happy'])
-print(clients[5],['Is has sacked a developer'])
-print(clients[6],['Is nicest clients'])
-print(clients[7],['Is expanding its business in Ireland'])
-print(clients[8],['Is okay'])
-print(clients[9],['are looking for testers'])
+# Exerice 2
+
+print(f"BAML",'is a cool client.')
+print(f"GoldmanSachs", 'is in desperate need for data analysts.')
+print(f"DirectLine",'need DevOps.')
+print(f"Prudential",'Is not happy.')
+print(f"M&G",'Is has sacked a developer.')
+print(f"BO",'Is nicest clients.')
+print(f"Home Office",'Is expanding its business in Ireland.')
+print(f"Fidelity",'Is okay.')
+print(f"BlackRock",'are looking for testers.')
+print(f"Nikko AM",'Is not looking to hire.')
 
 #Exersice 3
 
