@@ -84,3 +84,19 @@ print(leo_d[2][0][1])
 
 
 
+
+##########################################
+
+#Tuples
+#Tuples are immutable lists meaning that they do not change
+# Syntax is as follows
+#tuple_list = ('Hello')
+
+my_tuple=('eggs', 'bread', 'oats')
+print(my_tuple)
+print(type(my_tuple))
+
+breakpoint()
+
+# We ca not change the tuple itself, but we can change the state of items inside.
+# We cannot reassign them.

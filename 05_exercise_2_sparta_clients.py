@@ -33,3 +33,5 @@ print(story['Hero'])
 print(story['beginning'])
 print(story['middle'])
 print(story['End'])
+
+if

@@ -65,9 +65,11 @@ print(string_num.strip())
 # # -Get user last name  and save it to variable
 # last_name = input('what is your last name')
 # # -Joing the two
+
 # # - Let us use concatenation
 # full_name = first_name + ''+ last_name
 # print(full_name)
+
 # # - let us use interpolation
 # welcome_message = f"Hi {full_name}, you are very welcome!"
 # print(welcome_message)
