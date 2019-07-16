@@ -52,3 +52,4 @@ print(bool(3.14))
 
 # Values of None
 print(bool(None))
+
