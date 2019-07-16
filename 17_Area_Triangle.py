@@ -31,5 +31,7 @@ print(circle_area(23)==78.54)
 
 #### Phase 3
 
-
+def centimeters(inches,centimeters):
+    return float(inches(25.4)) * float(1)
+print(centimeters(25.4,1)==25.4)
 

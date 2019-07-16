@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9702a748-b8bd-4b76-bb34-8bf40949c2eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/16_Calculator_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_Calculator_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_Area_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/17_Area_Triangle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17_Area_Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="425">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -498,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17_Area_Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="425">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
