@@ -39,15 +39,40 @@ import time
 
 # Further loops ################################### listing numbers down in one line
 
-list_data =[1,2,3,4,5]
-embeded_list = [['1,2,3'],[5,6,7]]
+# list_data =[1,2,3,4,5]
+# embeded_list = [['1,2,3'],[5,6,7]]
 
 # for num in list_data:
 #     print(num)
 
-for data in embeded_list: # get the two lists
-       print(data)
-       for number in data:
-        print(number)
-        time.sleep(1)
-        
+# for data in embeded_list: # get the two lists
+#        print(data)
+#        for number in data:
+#         print(number)
+#         time.sleep(1)
+
+# list_spartans = ['shav', 'adam','daniel','michael','omid','hamza','ally']
+# embeded_list = [['shav', 'adam','daniel','michael'],['omid','hamza','ally']]
+#
+# for spartans in embeded_list:
+#     for spartan in spartans:
+#         print(spartan)
+#
+# list_spartans = ['shav', 'adam','daniel','michael','omid','hamza','ally']
+#
+# for spartan in list_spartans:
+#     print('hello', spartan)
+
+# list_scores = [1,10,3,4,5,6]
+#
+# for num in list_scores:
+#     result_percent = num/10*100
+#     print(result_percent)
+
+list_embed_scores =[[10,5,2],[3,4,6]]
+
+for ind_list in list_embed_scores:
+    print(ind_list)
+    for num in ind_list:
+        print(num*2)
+
