@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9702a748-b8bd-4b76-bb34-8bf40949c2eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_data_types_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_data_types_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_exercise_2_sparta_clients.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_exercise_2_sparta_clients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_data_types_lists_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_data_types_lists_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_types_booleans.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_data_types_booleans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_details_funny_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_details_funny_exercise.py" afterDir="false" />
-    </list>
+    <list default="true" id="9702a748-b8bd-4b76-bb34-8bf40949c2eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01variables.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,13 +55,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06_data_types_lists_dict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09_control_flow.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -136,6 +125,7 @@
         <option value="$PROJECT_DIR$/05_exercise_2_sparta_clients.py" />
         <option value="$PROJECT_DIR$/02_data_types_strings.py" />
         <option value="$PROJECT_DIR$/06_data_types_lists_dict.py" />
+        <option value="$PROJECT_DIR$/09_control_flow.py" />
       </list>
     </option>
   </component>
@@ -187,28 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_data_types_lists_dict">
-    <configuration name="01variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_basics_devops_36_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.09_control_flow">
     <configuration name="05_exercise_2_sparta_clients" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basics_devops_36_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,6 +241,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="09_control_flow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_basics_devops_36_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_control_flow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="user_details_funny_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basics_devops_36_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.09_control_flow" />
         <item itemvalue="Python.06_data_types_lists_dict" />
         <item itemvalue="Python.user_details_funny_exercise" />
         <item itemvalue="Python.07_data_types_dict" />
         <item itemvalue="Python.05_exercise_2_sparta_clients" />
-        <item itemvalue="Python.01variables" />
       </list>
     </recent_temporary>
   </component>
@@ -410,6 +400,9 @@
           <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_control_flow.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
