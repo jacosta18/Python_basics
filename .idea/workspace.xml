@@ -90,10 +90,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/16_Calculator_homework.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding>
-                <marker date="1563298981047" expanded="true" signature="74:201" ph="..." />
+                <marker date="1563300165491" expanded="true" signature="74:201" ph="..." />
               </folding>
             </state>
           </provider>
@@ -493,10 +493,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/16_Calculator_homework.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
-            <marker date="1563298981047" expanded="true" signature="74:201" ph="..." />
+            <marker date="1563300165491" expanded="true" signature="74:201" ph="..." />
           </folding>
         </state>
       </provider>

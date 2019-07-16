@@ -34,16 +34,18 @@ num2 = float(input("Enter the second number: "))
 while True:
     if choice == '1':
         print(float(num1),"+", float(num2),"=", add(float(num1),float(num2)))
-    elif choice == '2':\
+    elif choice == '2':
             print(float(num1), "-", float(num2), "=", subtract(float(num1),float(num2)))
-    elif choice == '3':\
+    elif choice == '3':
             print (float(num1), "*", float(num2),"=", multiply(float(num1),float(num2)))
-    elif choice == '4':\
+    elif choice == '4':
             print(float(num1), "/", float(num2), "=", divide(float(num1),float(num2)))
     else:
         print("Invalid input")
-    word = input("New operation? YES / NO")
+    word = input("New operation? YES / NO:".lower())
     if word == 'YES':
-        print("Let's GO!")
+        print("Let's GO!, PRESS CTRL,SHIFT, F10")
+    else:
+        print("See you later!")
     break
 
